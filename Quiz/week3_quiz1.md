@@ -16,7 +16,7 @@
 
 5.What is the first step in a write process from a HDFS client?
 
-- Immediately contact the NameNode
+- Start locally caching the data that needs to be written and then contact NameNode
 
 
 6.HDFS NameNode is not rack aware when it places the replica blocks.
